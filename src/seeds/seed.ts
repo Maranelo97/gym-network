@@ -18,6 +18,7 @@ async function seed() {
       userRepo.create({
         username: `usuario${i + 1}`,
         role: i === 0 ? 'entrenador' : 'cliente',
+        password: '1234',
         created_at: new Date(),
       }),
     ),
