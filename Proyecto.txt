@@ -1,0 +1,27 @@
+Proyecto
+back end - NestJs y TypeORM
+  ---  Login con JWT
+  ---  Sessiones que caducan
+  ---  db sencilla con usuario, seguidores y post.
+  ---  implementación de WebScokets para poder ver interacciones en tiempo real.
+
+Front Angular 18 - aprenderemos standalone components
+
+
+
+-- Red Social para gente que entrena
+
+	--- Posible Features: Carga de Rutinas, grupos de entrenamientos, Sistemas de Entrenamiento (Rest Pause, Heavy Duty, etc).
+
+
+
+
+BACK
+
+TO-DO: ya tenemos comando de migraciones
+	hacer CRUD de las tblas que quedan
+	generar relacion usarios, con post  -in progress
+	revisar roles de usuarios
+	aplicar AUTH con JWT 
+	implementar websocket
+	implementar MAILER
